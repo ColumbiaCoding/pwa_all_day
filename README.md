@@ -16,7 +16,9 @@
 We will build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
 ## Links
-<a href="https://github.com/ColumbiaCoding/gabesblog.git">Link to Github Repo</a>
+<a href="https://pwaallday-aa6f19997266.herokuapp.com/">Link to Heroku Deployed Application</a>
+
+<a href="https://github.com/ColumbiaCoding/pwa_all_day">Link to Github Repo</a>
 
 
 ## Purpose
